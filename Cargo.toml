@@ -3,6 +3,8 @@ name = "adaptive-bezier"
 version = "0.1.0"
 authors = ["chengluyu <chengluyu@live.cn>"]
 edition = "2018"
+description = "A Rust port of https://github.com/mattdesl/adaptive-bezier-curve"
+license = "BSD-3-Clause"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
