@@ -5,6 +5,9 @@ authors = ["chengluyu <chengluyu@live.cn>"]
 edition = "2018"
 description = "A Rust port of https://github.com/mattdesl/adaptive-bezier-curve"
 license = "BSD-3-Clause"
+documentation = "https://docs.rs/adaptive-bezier"
+homepage = "https://github.com/chengluyu/adaptive-bezier"
+repository = "https://github.com/chengluyu/adaptive-bezier"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
