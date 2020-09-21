@@ -1,0 +1,10 @@
+[package]
+name = "adaptive-bezier"
+version = "0.1.0"
+authors = ["chengluyu <chengluyu@live.cn>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.22.0"
